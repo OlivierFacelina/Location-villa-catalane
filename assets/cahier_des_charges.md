@@ -31,5 +31,5 @@
 - Page accueil (qui recense le calendrier pour réserver)
 - Page villa
 - Page photos
-- Page réservation
+- Page calendrier (dans cette page là, inclure les réservations)
 - Page activités à faire
